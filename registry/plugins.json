@@ -432,7 +432,7 @@
         "bundlePatch": "./cordis.patch.yml",
         "client": true,
         "branch": "main",
-        "commit": "3e9a48ff1d53154dd46c3ed22803a0a77066b901"
+        "commit": "2e9935ba8f7879961b1c4c38214cfc1aba629e7f"
       }
     }
   ]
